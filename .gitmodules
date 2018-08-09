@@ -1,0 +1,6 @@
+[submodule "RESTService"]
+	path = RESTService
+	url = https://github.com/laszlofarkas/RESTService.git
+[submodule "WebSite"]
+	path = WebSite
+	url = https://github.com/laszlofarkas/WebSite.git
