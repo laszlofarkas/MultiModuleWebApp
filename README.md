@@ -10,6 +10,14 @@ Each module have various dependencies, but globally you should have the followin
 The app try to connect a MongoDB on local host: `mongodb://localhost:27017/publishing`  
 If you want to use an other connection string you should modify that in `.\RESTService\src\app.ts` file
 
+## Get the code
+This repository have some git submodule that you have to initialize and update for first time:
+```
+git submodule init
+git submodule update
+```
+After that, you can maintain submodules separately
+
 ## TODO
 There are some feature what is missing
 - Rendering reach data into svg on Reach Dashboard
