@@ -20,8 +20,6 @@ After that, you can maintain submodules separately
 
 ## TODO
 There are some feature what is missing
-- Rendering reach data into svg on Reach Dashboard
-- Update reaches graph with new reaches coming from websocket
 - Tests (both in back-end and front-end)
 - Make the applications deploy ready
   - Organize environment related properties (like urls, port numbers, connection strings, etc) into file
